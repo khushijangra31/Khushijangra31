@@ -1,82 +1,184 @@
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=30&duration=3500&pause=1000&color=8A2BE2&center=true&vCenter=true&width=800&lines=Hi+👋+I'm+Khushi+Jangra;Full+Stack+Developer;Java+|+Python+|+JavaScript;DSA+Learner;Building+Real+World+Projects" />
-</p>
+<div align="center">
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=khushijangra31&label=Profile%20Views&color=8A2BE2&style=for-the-badge" />
-</p>
+# Hi 👋, I'm Khushi 
 
-### Hi 👋, I'm Khushi 
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&duration=3500&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;BCA+Student;DSA+Learner;AI+Enthusiast;Building+Real+World+Projects;Always+Learning+New+Things"/>
 
-## 💻 About Me
+<br>
 
-- 🎓 BCA Student
-- ☕ Java Developer
-- 🌐 Web Developer
-- 🤖 AI Enthusiast
-- 📚 Currently learning Data Structures & Algorithms
-- 🚀 Passionate about building real-world projects
----
+<img src="https://komarev.com/ghpvc/?username=khushijangra31&label=Profile%20Views&color=8A2BE2&style=for-the-badge"/>
 
-## 🛠️ Tech Stack
+<img src="https://img.shields.io/github/followers/khushijangra31?style=for-the-badge&color=blue"/>
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,java,python,cpp,git,github,vscode" />
-</p>
+<img src="https://img.shields.io/github/stars/khushijangra31?style=for-the-badge&color=yellow"/>
+
+</div>
 
 ---
 
-## 📊 GitHub Stats
+# 💜 About Me
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=khushijangra31&show_icons=true&theme=tokyonight" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushijangra31&layout=compact&theme=tokyonight" height="170"/>
-</p>
+💻 Passionate about creating modern web applications.
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=khushijangra31&theme=tokyonight"/>
-</p>
----
+🎓 BCA Student.
 
-## 🛠️ Skills
+🌱 Currently learning
 
-- Java
-- Python
-- HTML
-- CSS
-- JavaScript
-- Git & GitHub
+- Data Structures & Algorithms
+- Full Stack Development
+- AI & Machine Learning
+
+🚀 Love building real-world projects.
+
+🎯 Goal:
+Become a Software Engineer.
 
 ---
 
-## 🚀 Featured Projects
+# 🛠 Tech Stack
 
-- 🛡️ SafeSphere AI
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,cpp,java,python,git,github,vscode"/>
+
+</p>
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=khushijangra31&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushijangra31&layout=compact&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=khushijangra31&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🚀 Currently Working On
+
 - 📚 StudySphere
-- 🌦️ Weather App
-- 🧮 Calculator Web App
+- 🛡 SafeSphere AI
 - 💼 Portfolio Website
+- 📈 Improving DSA Skills
 
 ---
 
-## 🌐 Portfolio
+# 🎯 2026 Goals
 
-https://khushiselfportfolio.netlify.app
+✅ Crack Internship
+
+✅ Master DSA
+
+✅ Become Full Stack Developer
+
+✅ Open Source Contributor
+
+✅ 500+ GitHub Contributions
+
+---
+# 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🛡️ SafeSphere AI
+
+AI-powered safety platform.
+
+⭐ HTML • CSS • JavaScript
+
+</td>
+
+<td width="50%">
+
+### 📚 StudySphere
+
+Attendance & CGPA Calculator.
+
+⭐ HTML • CSS • JavaScript
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### ✅ TaskMaster Pro
+
+Modern To-Do Application.
+
+⭐ HTML • CSS • JavaScript
+
+</td>
+
+<td width="50%">
+
+### 🌦 Weather App
+
+Real-time Weather Application.
+
+⭐ JavaScript • API
+
+</td>
+
+</tr>
+
+</table>
 
 ---
 
-## 💼 LinkedIn
+# 🏆 GitHub Trophies
 
-(https://www.linkedin.com/in/khushi-jangra-b2b51340b?)
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=khushijangra31&theme=algolia&row=2&column=4"/>
+
+</p>
 
 ---
 
-## 🎯 2026 Goals
+# 🌐 Connect With Me
 
-- ✅ Master DSA
-- ✅ Become an Open Source Contributor
-- ✅ Build AI Projects
-- ✅ Earn Google Cloud Skill Badges
-- ✅ Crack a Software Development Internship
+<p align="center">
 
-Thanks for visiting my profile! ⭐
+<a href="https://www.linkedin.com/in/khushi-jangra-b2b51340b">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://khushiselfportfolio.netlify.app">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 💡 Quote
+
+<p align="center">
+
+"Success doesn't come from what you know.
+
+It comes from what you consistently build."
+
+</p>
+
+---
+
+<div align="center">
+
+⭐ If you like my work, don't forget to Star my repositories ⭐
+
+</div>
