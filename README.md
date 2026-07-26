@@ -16,7 +16,26 @@
 - 🤖 AI Enthusiast
 - 📚 Currently learning Data Structures & Algorithms
 - 🚀 Passionate about building real-world projects
+---
 
+## 🛠️ Tech Stack
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,js,java,python,cpp,git,github,vscode" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=khushijangra31&show_icons=true&theme=tokyonight" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushijangra31&layout=compact&theme=tokyonight" height="170"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=khushijangra31&theme=tokyonight"/>
+</p>
 ---
 
 ## 🛠️ Skills
