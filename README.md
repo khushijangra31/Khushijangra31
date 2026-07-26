@@ -1,4 +1,12 @@
-### Hi 👋, I'm Khushi Jangra
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=30&duration=3500&pause=1000&color=8A2BE2&center=true&vCenter=true&width=800&lines=Hi+👋+I'm+Khushi+Jangra;Full+Stack+Developer;Java+|+Python+|+JavaScript;DSA+Learner;Building+Real+World+Projects" />
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=khushijangra31&label=Profile%20Views&color=8A2BE2&style=for-the-badge" />
+</p>
+
+### Hi 👋, I'm Khushi 
 
 ## 💻 About Me
 
